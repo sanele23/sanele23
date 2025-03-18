@@ -1,7 +1,7 @@
 # Hi, I'm Sanele! 👋
 
 ## 🚀 About Me
-I'm a passionate, and ever-learning Software Developer, dedicated to building intuitive and dynamic user interfaces. As a soon-to-be graduate in computer science, I'm continuously working on improving my skills and expanding my knowledge in frontend development.
+I'm a passionate, and ever-learning Software Developer, dedicated to building intuitive and dynamic applications. As a soon-to-be graduate in computer science, I'm continuously working on improving my skills and expanding my knowledge in software development.
 
 My technical toolkit includes:
 - **React.js & Next.js**: Crafting scalable front-end architectures.
